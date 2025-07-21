@@ -15,7 +15,7 @@ Este é meu projeto de réplica do Mercado Livre, onde construir as funcionalida
 * **Design Intuitivo:** Uma interface construída para ser responsiva e fácil de usar, inspirada no layout original.
 
 ### No Back-end
-* **API Robusta:** O coração da comunicação entre o front-end e o banco de dados.
+* **API Robusta:** Comunicação entre o front-end e o banco de dados.
 * **Gestão de Contas:** Lida com o cadastro, login e a segurança dos dados dos usuários.
 * **Gestão de Produtos:** Controla como os produtos são listados, buscados e apresentados.
 * **Armazenamento de Dados:** Um banco de dados que guarda todas as informações de usuários e produtos de forma persistente.
@@ -23,10 +23,11 @@ Este é meu projeto de réplica do Mercado Livre, onde construir as funcionalida
 ## 💻 Tecnologias que Usei
 
 ### Front-end
-* **[React.js / Vue.js / Angular (coloque a que você usou)]**
+* **React.js**
 * **Vite.js**
-* **[HTML5, CSS3, JavaScript (ES6+)]**
-* **[Alguma biblioteca de UI/CSS, ex: Tailwind CSS, Styled Components]**
+* **React Router DOM**
+* **Axios**
+* **HTML5, CSS3, JavaScript (ES6+)**
 
 * 
 ### Back-end
