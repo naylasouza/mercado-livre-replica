@@ -29,7 +29,7 @@ Este é meu projeto de réplica do Mercado Livre, onde construir as funcionalida
 * **Axios**
 * **HTML5, CSS3, JavaScript (ES6+)**
 
-* 
+  
 ### Back-end
 * **Node.js**
 * **Express.js**
